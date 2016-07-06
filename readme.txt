@@ -4,3 +4,4 @@ Modify this txt.
 add license.
 Git tracks changes of files.
 Creating a new branch is quick.
+creating a new branch is quick & simple.
